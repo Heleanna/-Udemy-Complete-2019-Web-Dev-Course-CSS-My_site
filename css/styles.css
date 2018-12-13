@@ -26,7 +26,9 @@ h2 {
 h3 {
   color: #474a56;
   font-family: 'Montserrat', sans-serif;
+
 }
+
 
 /* CLASS SELECTOR */
 .top-container {
@@ -53,4 +55,47 @@ h3 {
   position: absolute;
   right: 300px;
   top: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.writing-img {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.learning-img {
+  float: right;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.giving-img {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.building-img {
+  float: right;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.reading-img {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.playing-img {
+  float: right;
+  margin-right: 30px;
+  width: 25%;
 }
